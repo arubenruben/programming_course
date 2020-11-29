@@ -9,13 +9,15 @@
 | Present Stakeholders | AWS, Facebook(react), Google | Not Started|
 | Architecture | CPU. Binary. Bytes and Bits. Intel/ARM. Assembly. RAM, Overflow  | Not Started|
 | Limitations | Undecidable Problems. Overflow. Segmentation Fault. Overflow exploit | --------|
-| -------- | Compilers vs Interpreters. Different types of [Programming Languages](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)  | --------|
-| -------- | Concept of Abastraction.  | --------|
-| -------- | -------- | --------|
+| Types of Programming Languages | Compilers vs Interpreters. Different types of [Programming Languages](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)  | --------|
+| Abstractions & Frameworks| Concept of Abastraction. Framework  | --------|
+| Pratical examples of tradeoffs of Javascript/Python/C++/Java/Javascript/Prolog/PHP/HTML | -------- | --------|
 
+##### Homework :Decide which programming Language to learn.
 
 ---
 ### Second Class - Variable, Operators, Operations
+###### ....Soooooooon :=)
 
 
 <!--
