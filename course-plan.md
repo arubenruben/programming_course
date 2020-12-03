@@ -7,14 +7,14 @@
 | -------- | -------- | --------|
 | History     | Von Newman, Turing, Bill Gates, Steve Jobs, Vint Cerf, Linus Torvald, Zuckerberg    |Not Started|
 | Present Stakeholders | AWS, Facebook(react), Google | Not Started|
-| Architecture | CPU. Binary. Bytes and Bits. Intel/ARM. Assembly. RAM, Overflow  | Not Started|
-| Limitations | Undecidable Problems. Overflow. Segmentation Fault. Overflow exploit | Not Started|
+| Architecture | CPU. Binary. Bytes and Bits. Intel/ARM-Endianess.  RAM  | Not Started|
+| Limitations | Undecidable Problems. Overflow.| Not Started|
+| Abstractions & Frameworks. Assembly . Programming Languages | Concept of Abastraction. Framework. Necessity of abstractions Assembly and High Level Programming Languages  | Not Started|
 | Types of Programming Languages | Compilers vs Interpreters. Different types of [Programming Languages](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)  | Not Started|
-| Abstractions & Frameworks| Concept of Abastraction. Framework  | Not Started|
-| Software Development Process| Dev, Test, Deploy, production and maintenance. AGILE vs RUP |   | Not Started|
+| Software Development Process| Dev, Debug, Test, Deploy, production and maintenance. AGILE vs RUP | Not Started|
 | Pratical examples | Tradeoffs of Javascript/Python/C++/Java/Javascript/Prolog/PHP/HTML | Not Started|
 
-##### Homework :Decide which programming Language to learn.
+##### Homework: Decide which programming Language to learn.
 
 ---
 ### Second Class - Variable, Operators, Operations
