@@ -22,7 +22,7 @@
 | Task     |Description|Status(Complete,Incomplete, Not Started) |
 | -------- | -------- | --------|
 | Limitations | Undecidable Problems. Overflow.| Not Started|
-| Architecture | Hexadecimal/Octal and binary operations| Not Started|
+| Architecture | Word concept. Hexadecimal/Octal and binary operations| Not Started|
 | Logic Table. Boole Algebra | Presentation of the boole algebra and operations| Not Started|
 | Types | Variables and Types. String special type| Not Started|
 | Operators | Math and Logic operators| Not Started|
