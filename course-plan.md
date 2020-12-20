@@ -21,37 +21,26 @@
 
 | Task     |Description|Status(Complete,Incomplete, Not Started) |
 | -------- | -------- | --------|
-| Limitations | Undecidable Problems. Overflow.| Not Started|
-| Architecture | Word concept. Hexadecimal/Octal and binary operations| Not Started|
-| Logic Table. Boole Algebra | Presentation of the boole algebra and operations| Not Started|
-| Types | Variables and Types. String special type| Not Started|
-| Operators | Math and Logic operators| Not Started|
-| If statements | Branching Operators| Not Started|
-| Code:All elemantary operations-Python | -------- | Not Started|
-| Code:Perimeter and Area-C | -------- | Not Started|
-| Code:Which quadrant?-Java | -------- | Not Started|
+| Limitations | Undecidable Problems. Overflow.| Completed|
+| Architecture | Word concept. Hexadecimal/Octal and binary operations| Completed|
+| Logic Table. Boole Algebra | Presentation of the boole algebra and operations| Completed|
+| Types | Variables and Types. String special type| Completed|
+| Operators | Math and Logic operators| Completed|
+| If statements | Branching Operators| Completed|
+| Code:All elemantary operations-Python | -------- | Completed|
+| Code:Perimeter and Area-C | -------- | Completed|
+| Code:Which quadrant?-Java | -------- | Not Completed|
 | Code:Roman Numeration-C++ | Roman Numeration Converter | Not Started|
 
-##### Homework: Exercises 3-7 and Exercicio posição da liga portuguesa de futebol
+##### Homework(Postponed): Exercises 3-7 and Exercicio posição da liga portuguesa de futebol
 
-<!--
+### Third Class - Conditionals,Cycles,Need of Encapsulation(Function)
 
-Historia- Von Newman, Turing, Bill Gates, Steve Jobs, Vint Cerf, Linus Torvald, Zuckerberg
-Players atuais - AWS, Facebook(react), Google
-Arquitetura – CPU. Binario. Bytes e Bits Problemas intrataveis. Compiladores. Intel ARM. Assembly. RAM, conceito de Abstração. Overflow
-Diferentes Linguagens de Programação – Não esquecer o HTML. Explicar bem o Python e o JS vs o C++. Explicar o Java intermedio entre ambos.
--------------------------------------------------------------
-Tipos de dados e operadores – Fazer Contas. Strings
-Variaveis. Explicar diferenças entre tipos.
--------------------------------------------------------------
-Questões Booleanas – Algebra de Boole.
-“IF”s. SCOPES
-Ciclos
--------------------------------------------------------------
-Funçoes. Forçar a ideia de reforçar de repetibilidade. Ideia de Referência
-Arrays. Estruturas de dados. Tabelas de Algoritmos. Arvores, Grafos.
-Classes.
--------------------------------------------------------------
-Miscellaneous – AGILE vs RUP, GIT, LINUX(UNIX), WWW(ou web) vs Internet, Computadores Quanticos, Grafos & Facebook. Web Apps. Android. Cloud Computing. AWS. Docker.
-
--->
+| Task     |Description|Status(Complete,Incomplete, Not Started) |
+| -------- | -------- | --------|
+| Conditionals & Boole Algebra| Recap of the conditionals and Bool Algebra | Not Started|
+| Cycles | Necessity of cycles | Not Started|
+| Which is my age range? Exercise | Explore the necessity of cycles and conditionals to create a pratical program. Analogy with the game loop design pattern | Not Started|
+| Functions  | Add the functionality of birthyear calculation to the previous point | Not Started|
+| Git | Use of git in this live code | Not Started|
+| Newton–Raphson root finding Algorithm | Recap of all topics. Demo of Java coding | Not Started|
