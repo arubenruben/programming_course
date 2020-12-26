@@ -34,13 +34,24 @@
 
 ##### Homework(Postponed): Exercises 3-7 and Exercicio posição da liga portuguesa de futebol
 
-### Third Class - Conditionals,Cycles,Need of Encapsulation(Function)
+### Third Class - Conditionals,Cycles,Need of Encapsulation(Functions)
 
 | Task     |Description|Status(Complete,Incomplete, Not Started) |
 | -------- | -------- | --------|
-| Conditionals & Boole Algebra| Recap of the conditionals and Bool Algebra | Not Started|
-| Cycles | Necessity of cycles | Not Started|
-| Which is my age range? Exercise | Explore the necessity of cycles and conditionals to create a pratical program. Analogy with the game loop design pattern | Not Started|
-| Functions  | Add the functionality of birthyear calculation to the previous point | Not Started|
-| Git | Use of git in this live code | Not Started|
+| Conditionals & Boole Algebra| Recap of the conditionals and Bool Algebra | Finished|
+| Cycles | Necessity of cycles | Finished|
+| Which is my age range? Exercise | Explore the necessity of cycles and conditionals to create a pratical program. Analogy with the game loop design pattern | Finished|
+| Functions  | Add the functionality of birthyear calculation to the previous point | Finished|
+| Git | Use of git in this live code | Finished|
 | Newton–Raphson root finding Algorithm | Recap of all topics. Demo of Java coding | Not Started|
+
+
+### Fourth Class - Cycles,Need of Encapsulation(Functions) and Strings
+
+| Task     |Description|Status(Complete,Incomplete, Not Started) |
+| -------- | -------- | --------|
+| Type String | Introduction to type String | Not Started|
+| Cycles | Introduction to cycles | Not Started|
+| Cycles:Factorial in JavaScript | Need of Cycles. Live code of why we need cycles design of general code | Not Started|
+| Strings: Who has the longest name? With Menu | Combination of cycles and Strings. Live code using Java | Not Started|
+| Cycles:Newton–Raphson root finding Algorithm | Recap of all topics. Demo of Java coding | Not Started|
