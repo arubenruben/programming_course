@@ -4,24 +4,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="./js/factorial.js" defer></script>
-    <title>Document</title>
+    <title>Calculo do Fatorial</title>
+    <script src="./js/live.js" defer></script>
 </head>
 
 <body>
-    <h1>Calculadora de Factorial</h1>
-    <form>
-        <span>
-            <input type="text" class="factorial-input">
-            <input type="submit">
-        </span>
-        <span>
-            <h4>
-                O Fatorial de<span id="factorial-input-preview">...</span>
-            </h4>
-            <input type="text" name="factorial-output" readonly>
-        </span>
+    <h1>Calculador de Fatorial</h1>
+    <form id="form-fatorial">
+        <label for="input-fatorial">Calcular o fatorial de:</label>
+        <input id="input-fatorial" type="text">
+        <input type="submit" value="Submeter">
     </form>
+    <p id="result-inline"></p>
 </body>
 
 </html>
