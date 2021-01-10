@@ -50,8 +50,16 @@
 
 | Task     |Description|Status(Complete,Incomplete, Not Started) |
 | -------- | -------- | --------|
-| Type String | Introduction to type String | Not Started|
-| Cycles | Introduction to cycles | Not Started|
-| Cycles:Factorial in JavaScript | Need of Cycles. Live code of why we need cycles design of general code | Not Started|
+| Type String | Introduction to type String | Completed|
+| Cycles | Introduction to cycles | Completed|
+| Cycles:Factorial in JavaScript | Need of Cycles. Live code of why we need cycles design of general code | Completed|
 | Strings: Who has the longest name? With Menu | Combination of cycles and Strings. Live code using Java | Not Started|
 | Cycles:Newton–Raphson root finding Algorithm | Recap of all topics. Demo of Java coding | Not Started|
+
+### Fifth Class - Strings Exercises, Classes & OOP, What's next?
+
+| Task     |Description|Status(Complete,Incomplete, Not Started) |
+| -------- | -------- | --------|
+| Strings: Who has the longest name? With Menu | Combination of cycles and Strings. Live code using Java | Not Started|
+| Classes | What are classes? What they gave to programmers? OOP paradigm of programming | Not Started|
+| Future:How to Learn code in the internet | Description of the main sources of programming learning online and offline | Not Started|
