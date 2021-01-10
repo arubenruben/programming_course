@@ -62,4 +62,5 @@
 | -------- | -------- | --------|
 | Strings: Who has the longest name? With Menu | Combination of cycles and Strings. Live code using Java | Not Started|
 | Classes | What are classes? What they gave to programmers? OOP paradigm of programming | Not Started|
+| Classes:UML Car Design | Practical example live coding of the value of OOP programming in team work and code clearence | Not Started|
 | Future:How to Learn code in the internet | Description of the main sources of programming learning online and offline | Not Started|
